@@ -1,0 +1,440 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hildaloe.com" resolutions="1x" timestamp="1454335486726">
+  <folder name="css">
+    <file name="site_global.css" crc="174156453"/>
+    <file name="master_awards.css" crc="143286538" ref="awards"/>
+    <file name="master_british-virgin-islands.css" crc="158686428" ref="british-virgin-islands"/>
+    <file name="master_about-the-founder.css" crc="4259855878" ref="about-the-founder"/>
+    <file name="master_cook-islands.css" crc="4120839231" ref="cook-islands"/>
+    <file name="master_testimonials.css" crc="218507091" ref="testimonials"/>
+    <file name="master_delaware.css" crc="441238207" ref="delaware"/>
+    <file name="master_bank-introductions.css" crc="3765531336" ref="bank-introduction"/>
+    <file name="master_incorporations-price-list.css" crc="309537521" ref="incorporations-price-list"/>
+    <file name="master_nominee-services.css" crc="3935483736" ref="nominee-services"/>
+    <file name="master_bank-accounts-price-list.css" crc="3902003213" ref="bank-accounts-price-list"/>
+    <file name="master_hong-kong.css" crc="271775914" ref="hong-kong"/>
+    <file name="master_offshore-incorporations.css" crc="3905761774" ref="offshore-incorporations"/>
+    <file name="master_yacht-registration-price-list.css" crc="4063691395" ref="yacht-registration-price-list"/>
+    <file name="master_yacht-registration.css" crc="3985568459" ref="yacht-registration"/>
+    <file name="master_marshall-islands.css" crc="3795551893" ref="marshall-islands"/>
+    <file name="master_bookkeeping-and-accounting-price-list.css" crc="364930248" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="master_panama.css" crc="19368062" ref="panama"/>
+    <file name="master_secretarial-and-bookkeeping.css" crc="4289516849" ref="secretarial-and-bookkeeping"/>
+    <file name="master_company-secretary-price-list.css" crc="3819127241" ref="company-secretary-price-list"/>
+    <file name="master_samoa.css" crc="4238811873" ref="samoa"/>
+    <file name="master_singapore-incorporations.css" crc="163003823" ref="singapore-incorporation"/>
+    <file name="master_a-master.css" crc="491563839" ref="price-list:our-services:jurisdiction:download-forms:index"/>
+    <file name="master_singapore.css" crc="516083114" ref="singapore"/>
+    <file name="master_virtual-offices-price-list.css" crc="217027553" ref="virtual-offices-price-list"/>
+    <file name="master_anguilla.css" crc="3806804427" ref="anguilla"/>
+    <file name="master_seychelles.css" crc="224953071" ref="seychelles"/>
+    <file name="master_contact-us.css" crc="205722752" ref="contact-us"/>
+    <file name="master_nominee-pricelist.css" crc="467055363" ref="nominee-price-list"/>
+    <file name="master_bahamas.css" crc="3989770285" ref="bahamas"/>
+    <file name="master_about-us.css" crc="302566750" ref="about-us"/>
+    <file name="master_virtual-office.css" crc="240228742" ref="virtual-office"/>
+    <file name="master_belize.css" crc="106679273" ref="belize"/>
+    <file name="hong-kong.css" crc="86127578" ref="hong-kong"/>
+    <file name="secretarial-and-bookkeeping.css" crc="4159188247" ref="secretarial-and-bookkeeping"/>
+    <file name="yacht-registration-price-list.css" crc="4207836191" ref="yacht-registration-price-list"/>
+    <file name="singapore-incorporation.css" crc="147658951" ref="singapore-incorporation"/>
+    <file name="virtual-offices-price-list.css" crc="3901074035" ref="virtual-offices-price-list"/>
+    <file name="marshall-islands.css" crc="3857296027" ref="marshall-islands"/>
+    <file name="yacht-registration.css" crc="4016885361" ref="yacht-registration"/>
+    <file name="about-the-founder.css" crc="323102135" ref="about-the-founder"/>
+    <file name="panama.css" crc="254797839" ref="panama"/>
+    <file name="virtual-office.css" crc="99098111" ref="virtual-office"/>
+    <file name="testimonials.css" crc="472475790" ref="testimonials"/>
+    <file name="price-list.css" crc="365407343" ref="price-list"/>
+    <file name="samoa.css" crc="142877689" ref="samoa"/>
+    <file name="awards.css" crc="131136493" ref="awards"/>
+    <file name="nominee-price-list.css" crc="197727152" ref="nominee-price-list"/>
+    <file name="our-services.css" crc="365407343" ref="our-services"/>
+    <file name="singapore.css" crc="214547440" ref="singapore"/>
+    <file name="bookkeeping-and-accounting-price-list.css" crc="292128772" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="contact-us.css" crc="30094457" ref="contact-us"/>
+    <file name="seychelles.css" crc="522925053" ref="seychelles"/>
+    <file name="company-secretary-price-list.css" crc="311958258" ref="company-secretary-price-list"/>
+    <file name="cook-islands.css" crc="3868554717" ref="cook-islands"/>
+    <file name="anguilla.css" crc="4012858678" ref="anguilla"/>
+    <file name="jurisdiction.css" crc="365407343" ref="jurisdiction"/>
+    <file name="bahamas.css" crc="240558327" ref="bahamas"/>
+    <file name="download-forms.css" crc="365407343" ref="download-forms"/>
+    <file name="index.css" crc="193418246" ref="index"/>
+    <file name="belize.css" crc="322755725" ref="belize"/>
+    <file name="bank-introduction.css" crc="3870807160" ref="bank-introduction"/>
+    <file name="about-us.css" crc="359563233" ref="about-us"/>
+    <file name="british-virgin-islands.css" crc="40656578" ref="british-virgin-islands"/>
+    <file name="nominee-services.css" crc="3913525705" ref="nominee-services"/>
+    <file name="incorporations-price-list.css" crc="215550331" ref="incorporations-price-list"/>
+    <file name="delaware.css" crc="468922481" ref="delaware"/>
+    <file name="offshore-incorporations.css" crc="236292160" ref="offshore-incorporations"/>
+    <file name="bank-accounts-price-list.css" crc="452182262" ref="bank-accounts-price-list"/>
+  </folder>
+  <folder name="assets">
+    <file name="hla--euro-pacific-bank-questionnaire.pdf" crc="3843085475" seo="true" mt="1426866082000"/>
+    <file name="hla-afrasia-bank-questionnaire-2015.pdf" crc="118041058" seo="true" mt="1426866110000"/>
+    <file name="hla-dbs-sin-bank-questionnaire-2015.pdf" crc="487732963" seo="true" mt="1426866129000"/>
+    <file name="hla-ocbc-sin-bank-questionnaire-2015.pdf" crc="4247266433" seo="true" mt="1426866144000"/>
+    <file name="form1fappforregistrationprivateyacht-v7.pdf" crc="4049295141" seo="true" mt="1426871893000"/>
+    <file name="surveyform2ayachtsunder24m-v5(new2012).pdf" crc="413970021" seo="true" mt="1426871980000"/>
+    <file name="form5aapplicationforshipradiostationlicencev2.pdf" crc="385236960" seo="true" mt="1426871928000"/>
+    <file name="form10carvingandmarkingnotesv4.pdf" crc="4169394174" seo="true" mt="1426871945000"/>
+    <file name="form2adeclarationofownershipv1.pdf" crc="4147510647" seo="true" mt="1426871906000"/>
+    <file name="form2bdeclarationofchangeofownershipv2.pdf" crc="291015984" seo="true" mt="1426871919000"/>
+    <file name="form9billofsalev2.pdf" crc="3993793594" seo="true" mt="1426871937000"/>
+    <file name="form12noticeofnamechangev1.pdf" crc="4251541657" seo="true" mt="1426871955000"/>
+    <file name="form14applicationfordeletionofregistrationv2.pdf" crc="4093547985" seo="true" mt="1426871966000"/>
+    <file name="form-1d-app-for-registration-yacht(private---commercial)-v25.pdf" crc="4255301706" seo="true" mt="1428818372000"/>
+    <file name="form-2a---declaration-of-ownership-v4.pdf" crc="492693444" seo="true" mt="1428818388000"/>
+    <file name="form-2a-survey---yachts-under-24m-v8.pdf" crc="17795770" seo="true" mt="1428818501000"/>
+    <file name="form-2b---declaration-of-change-of-ownership-v2.pdf" crc="108697405" seo="true" mt="1428818403000"/>
+    <file name="form-5a---application-for-ship-radio-station-licence-v2.pdf" crc="420731644" seo="true" mt="1428818419000"/>
+    <file name="form-7---ext.-ciys-application-for-membership-v-3.pdf" crc="3972317950" seo="true" mt="1428818273000"/>
+    <file name="form-9---bill-of-sale-v2.pdf" crc="3759498872" seo="true" mt="1428818434000"/>
+    <file name="form-10a---yacht-carving-and-marking-note-v1.pdf" crc="3979986202" seo="true" mt="1428818449000"/>
+    <file name="form-12---notice-of-name-change-v2.pdf" crc="249644974" seo="true" mt="1428818463000"/>
+    <file name="form-14---application-for-deletion-of-registration-v2.pdf" crc="106105193" seo="true" mt="1428818478000"/>
+    <file name="hla-sin-incorp-order-form-(2015).pdf" crc="168046037" seo="true" mt="1426224662000"/>
+    <file name="hla-sin-virtual-office-order-form-(2015).pdf" crc="3907448882" seo="true" mt="1426218630000"/>
+    <file name="hla-sin-hkg-co-nominee-order-form-(2015).pdf" crc="507359057" seo="true" mt="1426235230000"/>
+    <file name="yacht-registration-documents-checklist.pdf" crc="3932241819" seo="true" mt="1429953997000"/>
+    <file name="1.-hla-offshore-co-order-form-(jun-2015).pdf" crc="407104263" seo="true" mt="1432871088000"/>
+    <file name="2.-hla-sin-incorp-order-form-(jun-2015).pdf" crc="3844056385" seo="true" mt="1432870930000"/>
+    <file name="3.-hla-hkg-incorp-order-form-(jun-2015).pdf" crc="4013682874" seo="true" mt="1432870944000"/>
+    <file name="4.-hla-nominee-order-form-for-offshore-co-(jun-2015).pdf" crc="4056858885" seo="true" mt="1432870982000"/>
+    <file name="5.-hla-nominee-order-form-for-sin-hkg-co-(jun-2015).pdf" crc="287445870" seo="true" mt="1432873522000"/>
+    <file name="6.-hla-sin-virtual-office-order-form-(jun-2015).pdf" crc="357304492" seo="true" mt="1432871292000"/>
+    <file name="7.-hla-hkg-virtual-office-order-form-(jun-2015).pdf" crc="128490313" seo="true" mt="1432871976000"/>
+    <file name="checklist-@-cook-islands.pdf" crc="4214322646" seo="true" mt="1433424191000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:contact-us:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="webpro.js" crc="3803554875" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="form_check.php" crc="277267350" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact-us"/>
+    <file name="form_process.php" crc="24249335" ref="contact-us"/>
+    <file name="form-u1178.php" crc="434202269" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4289570456" ref="index"/>
+    <file name="header_background.png" crc="3769719230" seo="true" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="webheader_logo_tranparent.png" crc="92818681" seo="true" ref="index:about-us:price-list:our-services:contact-us:download-forms:bank-introduction:nominee-services:offshore-incorporations:secretarial-and-bookkeeping:singapore-incorporation:yacht-registration:virtual-office:awards:incorporations-price-list:bank-accounts-price-list:yacht-registration-price-list:virtual-offices-price-list:about-the-founder:testimonials:nominee-price-list:bookkeeping-and-accounting-price-list:company-secretary-price-list:anguilla:bahamas:belize:british-virgin-islands:delaware:hong-kong:marshall-islands:panama:samoa:singapore:seychelles:cook-islands:jurisdiction"/>
+    <file name="blank.gif" crc="4208392903" ref="index:price-list:our-services:download-forms:awards:about-the-founder:jurisdiction"/>
+    <file name="loading.gif" crc="3815509949" ref="index:awards:about-the-founder"/>
+    <file name="red-nice-abstract-background-crop-u35228.jpg" crc="4006898223" ref="index"/>
+    <file name="hla_office_01-crop-u43827.jpg" crc="150036534" ref="index"/>
+    <file name="dsc_3850.jpg" crc="145985745" seo="true" ref="index"/>
+    <file name="hla happy_yacht-crop-u43831.png" crc="3839444846" ref="index"/>
+    <file name="red-nice-abstract-background-crop-u20915.jpg" crc="526081303" ref="index"/>
+    <file name="google_maps_icon-u20883.png" crc="502783876" ref="index"/>
+    <file name="1000px-facebook_logo_minisvg-u31934.png" crc="207434842" ref="index"/>
+    <file name="linkedin-icon-logo-vector-u41231.png" crc="344435053" ref="index"/>
+    <file name="about-us-favicon.ico" crc="4289570456" ref="about-us"/>
+    <file name="red-nice-abstract-background-crop-u42010.jpg" crc="526081303" ref="about-us"/>
+    <file name="google_maps_icon-u42030.png" crc="502783876" ref="about-us"/>
+    <file name="1000px-facebook_logo_minisvg-u42028.png" crc="207434842" ref="about-us"/>
+    <file name="linkedin-icon-logo-vector-u42026.png" crc="344435053" ref="about-us"/>
+    <file name="price-list-favicon.ico" crc="4289570456" ref="price-list"/>
+    <file name="our-services-favicon.ico" crc="4289570456" ref="our-services"/>
+    <file name="contact-us-favicon.ico" crc="4289570456" ref="contact-us"/>
+    <file name="u1186-17.png" crc="311828129" ref="contact-us"/>
+    <file name="u1186-17-r.png" crc="3844863548" ref="contact-us"/>
+    <file name="u1186-17-m.png" crc="446077895" ref="contact-us"/>
+    <file name="u1186-17-fs.png" crc="51175883" ref="contact-us"/>
+    <file name="red-nice-abstract-background-crop-u42642.jpg" crc="526081303" ref="contact-us"/>
+    <file name="google_maps_icon-u42662.png" crc="502783876" ref="contact-us"/>
+    <file name="1000px-facebook_logo_minisvg-u42660.png" crc="207434842" ref="contact-us"/>
+    <file name="linkedin-icon-logo-vector-u42658.png" crc="344435053" ref="contact-us"/>
+    <file name="download-forms-favicon.ico" crc="4289570456" ref="download-forms"/>
+    <file name="bank-introduction-favicon.ico" crc="4289570456" ref="bank-introduction"/>
+    <file name="red-nice-abstract-background-crop-u42242.jpg" crc="526081303" ref="bank-introduction"/>
+    <file name="google_maps_icon-u42262.png" crc="502783876" ref="bank-introduction"/>
+    <file name="1000px-facebook_logo_minisvg-u42260.png" crc="207434842" ref="bank-introduction"/>
+    <file name="linkedin-icon-logo-vector-u42258.png" crc="344435053" ref="bank-introduction"/>
+    <file name="nominee-services-favicon.ico" crc="4289570456" ref="nominee-services"/>
+    <file name="hla_office_12.jpg" crc="52239737" seo="true" ref="nominee-services"/>
+    <file name="hla_office_06357x238.jpg" crc="4123352545" seo="true" ref="nominee-services"/>
+    <file name="hla_15-crop-u43786.jpg" crc="503072532" ref="nominee-services"/>
+    <file name="red-nice-abstract-background-crop-u42299.jpg" crc="526081303" ref="nominee-services"/>
+    <file name="google_maps_icon-u42319.png" crc="502783876" ref="nominee-services"/>
+    <file name="1000px-facebook_logo_minisvg-u42317.png" crc="207434842" ref="nominee-services"/>
+    <file name="linkedin-icon-logo-vector-u42315.png" crc="344435053" ref="nominee-services"/>
+    <file name="offshore-incorporations-favicon.ico" crc="4289570456" ref="offshore-incorporations"/>
+    <file name="red-nice-abstract-background-crop-u42356.jpg" crc="526081303" ref="offshore-incorporations"/>
+    <file name="google_maps_icon-u42376.png" crc="502783876" ref="offshore-incorporations"/>
+    <file name="1000px-facebook_logo_minisvg-u42374.png" crc="207434842" ref="offshore-incorporations"/>
+    <file name="linkedin-icon-logo-vector-u42372.png" crc="344435053" ref="offshore-incorporations"/>
+    <file name="secretarial-and-bookkeeping-favicon.ico" crc="4289570456" ref="secretarial-and-bookkeeping"/>
+    <file name="red-nice-abstract-background-crop-u42412.jpg" crc="526081303" ref="secretarial-and-bookkeeping"/>
+    <file name="google_maps_icon-u42432.png" crc="502783876" ref="secretarial-and-bookkeeping"/>
+    <file name="1000px-facebook_logo_minisvg-u42430.png" crc="207434842" ref="secretarial-and-bookkeeping"/>
+    <file name="linkedin-icon-logo-vector-u42428.png" crc="344435053" ref="secretarial-and-bookkeeping"/>
+    <file name="singapore-incorporation-favicon.ico" crc="4289570456" ref="singapore-incorporation"/>
+    <file name="red-nice-abstract-background-crop-u42468.jpg" crc="526081303" ref="singapore-incorporation"/>
+    <file name="google_maps_icon-u42488.png" crc="502783876" ref="singapore-incorporation"/>
+    <file name="1000px-facebook_logo_minisvg-u42486.png" crc="207434842" ref="singapore-incorporation"/>
+    <file name="linkedin-icon-logo-vector-u42484.png" crc="344435053" ref="singapore-incorporation"/>
+    <file name="yacht-registration-favicon.ico" crc="4289570456" ref="yacht-registration"/>
+    <file name="pg-01-10-01334x217.jpg" crc="4173954669" seo="true" ref="yacht-registration"/>
+    <file name="image 1 madiba a290x217.jpg" crc="4055730117" seo="true" ref="yacht-registration"/>
+    <file name="hla happy_yacht337x217.jpg" crc="4256735915" seo="true" ref="yacht-registration"/>
+    <file name="red-nice-abstract-background-crop-u42530.jpg" crc="526081303" ref="yacht-registration"/>
+    <file name="google_maps_icon-u42550.png" crc="502783876" ref="yacht-registration"/>
+    <file name="1000px-facebook_logo_minisvg-u42548.png" crc="207434842" ref="yacht-registration"/>
+    <file name="linkedin-icon-logo-vector-u42546.png" crc="344435053" ref="yacht-registration"/>
+    <file name="virtual-office-favicon.ico" crc="4289570456" ref="virtual-office"/>
+    <file name="red-nice-abstract-background-crop-u42586.jpg" crc="526081303" ref="virtual-office"/>
+    <file name="google_maps_icon-u42606.png" crc="502783876" ref="virtual-office"/>
+    <file name="1000px-facebook_logo_minisvg-u42604.png" crc="207434842" ref="virtual-office"/>
+    <file name="linkedin-icon-logo-vector-u42602.png" crc="344435053" ref="virtual-office"/>
+    <file name="awards-favicon.ico" crc="4289570456" ref="awards"/>
+    <file name="1st page final print.jpg" crc="506279348" seo="true" ref="awards"/>
+    <file name="orange_photo-crop-u43692.jpg" crc="167864242" ref="awards"/>
+    <file name="img_3954b.jpg" crc="478506647" seo="true" ref="awards"/>
+    <file name="hla_excellenece_award_2013_09-crop-u43674.jpg" crc="4138271093" ref="awards"/>
+    <file name="hla_excellenece_award_2013_10_edited-crop-u43680.jpg" crc="10752491" ref="awards"/>
+    <file name="dsc_3906-crop-u43686.jpg" crc="339890448" ref="awards"/>
+    <file name="apba_08(awards).jpg" crc="245719572" seo="true" ref="awards"/>
+    <file name="apba_11.jpg" crc="3985821090" seo="true" ref="awards"/>
+    <file name="apba_04.jpg" crc="3763480076" seo="true" ref="awards"/>
+    <file name="sme_award-crop-u43678.jpg" crc="4170175983" ref="awards"/>
+    <file name="promising sme 500 2014.jpg" crc="4228189166" seo="true" ref="awards"/>
+    <file name="hilda loe associates page 1-2.jpg" crc="164879529" seo="true" ref="awards"/>
+    <file name="hildaloeassociates-24.jpg" crc="224959339" seo="true" ref="awards"/>
+    <file name="hla_office_22-crop-u43684.jpg" crc="4117644416" ref="awards"/>
+    <file name="1st page final print-crop-u43643.jpg" crc="4077498725" ref="awards"/>
+    <file name="orange_photo68x45.jpg" crc="4071354043" seo="true" ref="awards"/>
+    <file name="img_3954b-crop-u43631.jpg" crc="4091276304" ref="awards"/>
+    <file name="hla_excellenece_award_2013_0968x45.jpg" crc="4239151179" seo="true" ref="awards"/>
+    <file name="hla_excellenece_award_2013_10_edited68x45.jpg" crc="460694655" seo="true" ref="awards"/>
+    <file name="dsc_3906-crop-u43635.jpg" crc="183523780" ref="awards"/>
+    <file name="apba_08(awards)-crop-u43633.jpg" crc="283087480" ref="awards"/>
+    <file name="apba_1168x45.jpg" crc="4083182493" seo="true" ref="awards"/>
+    <file name="apba_0468x45.jpg" crc="132181643" seo="true" ref="awards"/>
+    <file name="sme_award68x45.jpg" crc="69814013" seo="true" ref="awards"/>
+    <file name="promising sme 500 2014-crop-u43629.jpg" crc="4267790801" ref="awards"/>
+    <file name="hilda loe associates page 1-264x45.jpg" crc="451190836" seo="true" ref="awards"/>
+    <file name="hildaloeassociates-24-crop-u43637.jpg" crc="242714563" ref="awards"/>
+    <file name="hla_office_22-crop-u43645.jpg" crc="4061757249" ref="awards"/>
+    <file name="red-nice-abstract-background-crop-u42067.jpg" crc="526081303" ref="awards"/>
+    <file name="google_maps_icon-u42087.png" crc="502783876" ref="awards"/>
+    <file name="1000px-facebook_logo_minisvg-u42085.png" crc="207434842" ref="awards"/>
+    <file name="linkedin-icon-logo-vector-u42083.png" crc="344435053" ref="awards"/>
+    <file name="1.png" crc="89747302" seo="true" ref="incorporations-price-list"/>
+    <file name="1b.png" crc="77652487" seo="true" ref="incorporations-price-list"/>
+    <file name="red-nice-abstract-background-crop-u42698.jpg" crc="526081303" ref="incorporations-price-list"/>
+    <file name="google_maps_icon-u42718.png" crc="502783876" ref="incorporations-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u42716.png" crc="207434842" ref="incorporations-price-list"/>
+    <file name="linkedin-icon-logo-vector-u42714.png" crc="344435053" ref="incorporations-price-list"/>
+    <file name="2 bank comparison (sgd).jpg" crc="4229349384" seo="true" ref="bank-accounts-price-list"/>
+    <file name="red-nice-abstract-background-crop-u42754.jpg" crc="526081303" ref="bank-accounts-price-list"/>
+    <file name="google_maps_icon-u42774.png" crc="502783876" ref="bank-accounts-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u42772.png" crc="207434842" ref="bank-accounts-price-list"/>
+    <file name="linkedin-icon-logo-vector-u42770.png" crc="344435053" ref="bank-accounts-price-list"/>
+    <file name="yacht-registration-price-list-favicon.ico" crc="4289570456" ref="yacht-registration-price-list"/>
+    <file name="3.png" crc="4123301461" seo="true" ref="yacht-registration-price-list"/>
+    <file name="red-nice-abstract-background-crop-u42810.jpg" crc="526081303" ref="yacht-registration-price-list"/>
+    <file name="google_maps_icon-u42830.png" crc="502783876" ref="yacht-registration-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u42828.png" crc="207434842" ref="yacht-registration-price-list"/>
+    <file name="linkedin-icon-logo-vector-u42826.png" crc="344435053" ref="yacht-registration-price-list"/>
+    <file name="virtual-offices-price-list-favicon.ico" crc="4289570456" ref="virtual-offices-price-list"/>
+    <file name="4.png" crc="4201793971" seo="true" ref="virtual-offices-price-list"/>
+    <file name="red-nice-abstract-background-crop-u42866.jpg" crc="526081303" ref="virtual-offices-price-list"/>
+    <file name="google_maps_icon-u42886.png" crc="502783876" ref="virtual-offices-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u42884.png" crc="207434842" ref="virtual-offices-price-list"/>
+    <file name="linkedin-icon-logo-vector-u42882.png" crc="344435053" ref="virtual-offices-price-list"/>
+    <file name="about-the-founder-favicon.ico" crc="4289570456" ref="about-the-founder"/>
+    <file name="hilda loe id photo.jpg" crc="358256482" seo="true" ref="about-the-founder"/>
+    <file name="hl personal iop cert x1.jpg" crc="265483042" seo="true" ref="about-the-founder"/>
+    <file name="hl aepp cert.jpg" crc="276723291" seo="true" ref="about-the-founder"/>
+    <file name="hl deputy registrar cert.jpg" crc="4234245670" seo="true" ref="about-the-founder"/>
+    <file name="hl fpas cert.jpg" crc="179945757" seo="true" ref="about-the-founder"/>
+    <file name="hla - iop cert.jpg" crc="528529232" seo="true" ref="about-the-founder"/>
+    <file name="hla ocbc cert.jpg" crc="3775365038" seo="true" ref="about-the-founder"/>
+    <file name="hl saicsa practising cert.jpg" crc="4150220973" seo="true" ref="about-the-founder"/>
+    <file name="saicsa associate memebrship cert - hl.jpg" crc="4073425653" seo="true" ref="about-the-founder"/>
+    <file name="hl personal iop cert x171x102.jpg" crc="265858966" seo="true" ref="about-the-founder"/>
+    <file name="hl aepp cert-crop-u21251.jpg" crc="4102666975" ref="about-the-founder"/>
+    <file name="hl deputy registrar cert71x100.jpg" crc="120941695" seo="true" ref="about-the-founder"/>
+    <file name="hl fpas cert59x83.jpg" crc="4196920869" seo="true" ref="about-the-founder"/>
+    <file name="hla - iop cert60x83.jpg" crc="146711396" seo="true" ref="about-the-founder"/>
+    <file name="hla ocbc cert-crop-u21287.jpg" crc="4275319330" ref="about-the-founder"/>
+    <file name="hl saicsa practising cert71x101.jpg" crc="3980683247" seo="true" ref="about-the-founder"/>
+    <file name="saicsa associate memebrship cert - hl71x101.jpg" crc="3906522743" seo="true" ref="about-the-founder"/>
+    <file name="red-nice-abstract-background-crop-u42124.jpg" crc="526081303" ref="about-the-founder"/>
+    <file name="google_maps_icon-u42144.png" crc="502783876" ref="about-the-founder"/>
+    <file name="1000px-facebook_logo_minisvg-u42142.png" crc="207434842" ref="about-the-founder"/>
+    <file name="linkedin-icon-logo-vector-u42140.png" crc="344435053" ref="about-the-founder"/>
+    <file name="testimonials-favicon.ico" crc="4289570456" ref="testimonials"/>
+    <file name="red-nice-abstract-background-crop-u42185.jpg" crc="526081303" ref="testimonials"/>
+    <file name="google_maps_icon-u42205.png" crc="502783876" ref="testimonials"/>
+    <file name="1000px-facebook_logo_minisvg-u42203.png" crc="207434842" ref="testimonials"/>
+    <file name="linkedin-icon-logo-vector-u42201.png" crc="344435053" ref="testimonials"/>
+    <file name="nominee-price-list-favicon.ico" crc="4289570456" ref="nominee-price-list"/>
+    <file name="5a.png" crc="93941514" seo="true" ref="nominee-price-list"/>
+    <file name="5b.png" crc="498494724" seo="true" ref="nominee-price-list"/>
+    <file name="red-nice-abstract-background-crop-u42922.jpg" crc="526081303" ref="nominee-price-list"/>
+    <file name="google_maps_icon-u42942.png" crc="502783876" ref="nominee-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u42940.png" crc="207434842" ref="nominee-price-list"/>
+    <file name="linkedin-icon-logo-vector-u42938.png" crc="344435053" ref="nominee-price-list"/>
+    <file name="bookkeeping-and-accounting-price-list-favicon.ico" crc="4289570456" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="6.png" crc="56889348" seo="true" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="6b.png" crc="269130165" seo="true" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="red-nice-abstract-background-crop-u42978.jpg" crc="526081303" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="google_maps_icon-u42998.png" crc="502783876" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u42996.png" crc="207434842" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="linkedin-icon-logo-vector-u42994.png" crc="344435053" ref="bookkeeping-and-accounting-price-list"/>
+    <file name="company-secretary-price-list-favicon.ico" crc="4289570456" ref="company-secretary-price-list"/>
+    <file name="7.png" crc="364773989" seo="true" ref="company-secretary-price-list"/>
+    <file name="red-nice-abstract-background-crop-u43034.jpg" crc="526081303" ref="company-secretary-price-list"/>
+    <file name="google_maps_icon-u43054.png" crc="502783876" ref="company-secretary-price-list"/>
+    <file name="1000px-facebook_logo_minisvg-u43052.png" crc="207434842" ref="company-secretary-price-list"/>
+    <file name="linkedin-icon-logo-vector-u43050.png" crc="344435053" ref="company-secretary-price-list"/>
+    <file name="anguilla-favicon.ico" crc="4289570456" ref="anguilla"/>
+    <file name="1a.jpg" crc="9679826" seo="true" ref="anguilla"/>
+    <file name="1b.jpg" crc="4284272256" seo="true" ref="anguilla"/>
+    <file name="red-nice-abstract-background-crop-u41326.jpg" crc="526081303" ref="anguilla"/>
+    <file name="google_maps_icon-u41346.png" crc="502783876" ref="anguilla"/>
+    <file name="1000px-facebook_logo_minisvg-u41344.png" crc="207434842" ref="anguilla"/>
+    <file name="linkedin-icon-logo-vector-u41342.png" crc="344435053" ref="anguilla"/>
+    <file name="bahamas-favicon.ico" crc="4289570456" ref="bahamas"/>
+    <file name="2a.jpg" crc="4008752665" seo="true" ref="bahamas"/>
+    <file name="2b.jpg" crc="93781021" seo="true" ref="bahamas"/>
+    <file name="red-nice-abstract-background-crop-u41383.jpg" crc="526081303" ref="bahamas"/>
+    <file name="google_maps_icon-u41403.png" crc="502783876" ref="bahamas"/>
+    <file name="1000px-facebook_logo_minisvg-u41401.png" crc="207434842" ref="bahamas"/>
+    <file name="linkedin-icon-logo-vector-u41399.png" crc="344435053" ref="bahamas"/>
+    <file name="belize-favicon.ico" crc="4289570456" ref="belize"/>
+    <file name="3a.jpg" crc="525785652" seo="true" ref="belize"/>
+    <file name="3b.jpg" crc="4058306112" seo="true" ref="belize"/>
+    <file name="red-nice-abstract-background-crop-u41440.jpg" crc="526081303" ref="belize"/>
+    <file name="google_maps_icon-u41460.png" crc="502783876" ref="belize"/>
+    <file name="1000px-facebook_logo_minisvg-u41458.png" crc="207434842" ref="belize"/>
+    <file name="linkedin-icon-logo-vector-u41456.png" crc="344435053" ref="belize"/>
+    <file name="british-virgin-islands-favicon.ico" crc="4289570456" ref="british-virgin-islands"/>
+    <file name="4a.jpg" crc="400439469" seo="true" ref="british-virgin-islands"/>
+    <file name="4b.jpg" crc="81791935" seo="true" ref="british-virgin-islands"/>
+    <file name="red-nice-abstract-background-crop-u41497.jpg" crc="526081303" ref="british-virgin-islands"/>
+    <file name="google_maps_icon-u41517.png" crc="502783876" ref="british-virgin-islands"/>
+    <file name="1000px-facebook_logo_minisvg-u41515.png" crc="207434842" ref="british-virgin-islands"/>
+    <file name="linkedin-icon-logo-vector-u41513.png" crc="344435053" ref="british-virgin-islands"/>
+    <file name="delaware-favicon.ico" crc="4289570456" ref="delaware"/>
+    <file name="6a.jpg" crc="3812036758" seo="true" ref="delaware"/>
+    <file name="6b.jpg" crc="4054413434" seo="true" ref="delaware"/>
+    <file name="red-nice-abstract-background-crop-u41611.jpg" crc="526081303" ref="delaware"/>
+    <file name="google_maps_icon-u41631.png" crc="502783876" ref="delaware"/>
+    <file name="1000px-facebook_logo_minisvg-u41629.png" crc="207434842" ref="delaware"/>
+    <file name="linkedin-icon-logo-vector-u41627.png" crc="344435053" ref="delaware"/>
+    <file name="hong-kong-favicon.ico" crc="4289570456" ref="hong-kong"/>
+    <file name="7a.jpg" crc="307186170" seo="true" ref="hong-kong"/>
+    <file name="7b.jpg" crc="395646929" seo="true" ref="hong-kong"/>
+    <file name="red-nice-abstract-background-crop-u41668.jpg" crc="526081303" ref="hong-kong"/>
+    <file name="google_maps_icon-u41688.png" crc="502783876" ref="hong-kong"/>
+    <file name="1000px-facebook_logo_minisvg-u41686.png" crc="207434842" ref="hong-kong"/>
+    <file name="linkedin-icon-logo-vector-u41684.png" crc="344435053" ref="hong-kong"/>
+    <file name="marshall-islands-favicon.ico" crc="4289570456" ref="marshall-islands"/>
+    <file name="8a.jpg" crc="479096291" seo="true" ref="marshall-islands"/>
+    <file name="8b.jpg" crc="4192158805" seo="true" ref="marshall-islands"/>
+    <file name="red-nice-abstract-background-crop-u41725.jpg" crc="526081303" ref="marshall-islands"/>
+    <file name="google_maps_icon-u41745.png" crc="502783876" ref="marshall-islands"/>
+    <file name="1000px-facebook_logo_minisvg-u41743.png" crc="207434842" ref="marshall-islands"/>
+    <file name="linkedin-icon-logo-vector-u41741.png" crc="344435053" ref="marshall-islands"/>
+    <file name="panama-favicon.ico" crc="4289570456" ref="panama"/>
+    <file name="9a.jpg" crc="120701594" seo="true" ref="panama"/>
+    <file name="9b.jpg" crc="3961673294" seo="true" ref="panama"/>
+    <file name="red-nice-abstract-background-crop-u41782.jpg" crc="526081303" ref="panama"/>
+    <file name="google_maps_icon-u41802.png" crc="502783876" ref="panama"/>
+    <file name="1000px-facebook_logo_minisvg-u41800.png" crc="207434842" ref="panama"/>
+    <file name="linkedin-icon-logo-vector-u41798.png" crc="344435053" ref="panama"/>
+    <file name="samoa-favicon.ico" crc="4289570456" ref="samoa"/>
+    <file name="10a.jpg" crc="4040046020" seo="true" ref="samoa"/>
+    <file name="10b.jpg" crc="3835387626" seo="true" ref="samoa"/>
+    <file name="red-nice-abstract-background-crop-u41839.jpg" crc="526081303" ref="samoa"/>
+    <file name="google_maps_icon-u41859.png" crc="502783876" ref="samoa"/>
+    <file name="1000px-facebook_logo_minisvg-u41857.png" crc="207434842" ref="samoa"/>
+    <file name="linkedin-icon-logo-vector-u41855.png" crc="344435053" ref="samoa"/>
+    <file name="singapore-favicon.ico" crc="4289570456" ref="singapore"/>
+    <file name="11a.jpg" crc="228289497" seo="true" ref="singapore"/>
+    <file name="11b.jpg" crc="249311770" seo="true" ref="singapore"/>
+    <file name="red-nice-abstract-background-crop-u41896.jpg" crc="526081303" ref="singapore"/>
+    <file name="google_maps_icon-u41916.png" crc="502783876" ref="singapore"/>
+    <file name="1000px-facebook_logo_minisvg-u41914.png" crc="207434842" ref="singapore"/>
+    <file name="linkedin-icon-logo-vector-u41912.png" crc="344435053" ref="singapore"/>
+    <file name="seychelles-favicon.ico" crc="4289570456" ref="seychelles"/>
+    <file name="12a.jpg" crc="4195127612" seo="true" ref="seychelles"/>
+    <file name="12b.jpg" crc="329477167" seo="true" ref="seychelles"/>
+    <file name="red-nice-abstract-background-crop-u41953.jpg" crc="526081303" ref="seychelles"/>
+    <file name="google_maps_icon-u41973.png" crc="502783876" ref="seychelles"/>
+    <file name="1000px-facebook_logo_minisvg-u41971.png" crc="207434842" ref="seychelles"/>
+    <file name="linkedin-icon-logo-vector-u41969.png" crc="344435053" ref="seychelles"/>
+    <file name="5a.jpg" crc="3954562771" seo="true" ref="cook-islands"/>
+    <file name="5b.jpg" crc="4274865535" seo="true" ref="cook-islands"/>
+    <file name="red-nice-abstract-background-crop-u41554.jpg" crc="526081303" ref="cook-islands"/>
+    <file name="google_maps_icon-u41574.png" crc="502783876" ref="cook-islands"/>
+    <file name="1000px-facebook_logo_minisvg-u41572.png" crc="207434842" ref="cook-islands"/>
+    <file name="linkedin-icon-logo-vector-u41570.png" crc="344435053" ref="cook-islands"/>
+    <file name="hla_23-crop-u43922.jpg" crc="422441156" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_04-crop-u43918.jpg" crc="3938779072" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_office_05-crop-u43936.jpg" crc="4240821934" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="dsc_3855-crop-u43908.jpg" crc="4206857413" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_office_02-crop-u43904.jpg" crc="103043770" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="workstation-405768_1920-crop-u43932.jpg" crc="4055459767" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_office_04-crop-u43912.jpg" crc="1349926" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_letterhead_seal_new-crop-u43906.jpg" crc="275380615" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_05-crop-u43928.jpg" crc="90348778" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_intercon_03-crop-u43934.jpg" crc="422728938" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_office_14-crop-u43914.jpg" crc="4165539038" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla happy_yacht-crop-u43930.jpg" crc="3914340310" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_office_06-crop-u43910.jpg" crc="470549546" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="p68888(1)-crop-u43924.jpg" crc="3838202594" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_office_24-crop-u43916.jpg" crc="3996265648" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="image 1 madiba a-crop-u43938.jpg" crc="118533828" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_01-crop-u43920.jpg" crc="3959648107" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="pg-01-10-01-crop-u43926.jpg" crc="3906364285" ref="index:price-list:our-services:download-forms:jurisdiction"/>
+    <file name="hla_09.jpg" crc="521814856" seo="true" ref="about-us"/>
+  </folder>
+  <file name="index.html" crc="344229035" seo="true" mt="1454232598963" redirect="true"/>
+  <file name="about-us.html" crc="3911880206" seo="true" mt="1454335457583" redirect="true"/>
+  <file name="price-list.html" crc="350950973" seo="true" mt="1454232598963" redirect="true"/>
+  <file name="our-services.html" crc="123602199" seo="true" mt="1454232598963" redirect="true"/>
+  <file name="contact-us.html" crc="225158457" seo="true" mt="1434129074568" redirect="true"/>
+  <file name="download-forms.html" crc="77852826" seo="true" mt="1454232598963" redirect="true"/>
+  <file name="bank-introduction.html" crc="3830777173" seo="true" mt="1434128968349" redirect="true"/>
+  <file name="nominee-services.html" crc="372881016" seo="true" mt="1454228227416" redirect="true"/>
+  <file name="offshore-incorporations.html" crc="4029854697" seo="true" mt="1434128997009" redirect="true"/>
+  <file name="secretarial-and-bookkeeping.html" crc="403355754" seo="true" mt="1434129010348" redirect="true"/>
+  <file name="singapore-incorporation.html" crc="3995367091" seo="true" mt="1434129027773" redirect="true"/>
+  <file name="yacht-registration.html" crc="308575394" seo="true" mt="1434129050501" redirect="true"/>
+  <file name="virtual-office.html" crc="484358407" seo="true" mt="1434129062462" redirect="true"/>
+  <file name="awards.html" crc="4191584667" seo="true" mt="1454228149640" redirect="true"/>
+  <file name="incorporations-price-list.html" crc="3844400501" seo="true" mt="1435077467491" redirect="true"/>
+  <file name="bank-accounts-price-list.html" crc="262444767" seo="true" mt="1435077590494" redirect="true"/>
+  <file name="yacht-registration-price-list.html" crc="210890861" seo="true" mt="1437103914434" redirect="true"/>
+  <file name="virtual-offices-price-list.html" crc="517569593" seo="true" mt="1434129144963" redirect="true"/>
+  <file name="about-the-founder.html" crc="4014571710" seo="true" mt="1454335111506" redirect="true"/>
+  <file name="testimonials.html" crc="4192352556" seo="true" mt="1434128944982" redirect="true"/>
+  <file name="nominee-price-list.html" crc="4068007505" seo="true" mt="1434129158897" redirect="true"/>
+  <file name="bookkeeping-and-accounting-price-list.html" crc="70735616" seo="true" mt="1434129171074" redirect="true"/>
+  <file name="company-secretary-price-list.html" crc="234433016" seo="true" mt="1434129186706" redirect="true"/>
+  <file name="anguilla.html" crc="3808217199" seo="true" mt="1454231929747" redirect="true"/>
+  <file name="bahamas.html" crc="3924705936" seo="true" mt="1454231866854" redirect="true"/>
+  <file name="belize.html" crc="4273602318" seo="true" mt="1454231882039" redirect="true"/>
+  <file name="british-virgin-islands.html" crc="27352947" seo="true" mt="1434128663903" redirect="true"/>
+  <file name="delaware.html" crc="46852644" seo="true" mt="1434778218261" redirect="true"/>
+  <file name="hong-kong.html" crc="395072909" seo="true" mt="1435159098818" redirect="true"/>
+  <file name="marshall-islands.html" crc="4123957495" seo="true" mt="1434128760315" redirect="true"/>
+  <file name="panama.html" crc="220202977" seo="true" mt="1434128785817" redirect="true"/>
+  <file name="samoa.html" crc="4205769376" seo="true" mt="1434128804801" redirect="true"/>
+  <file name="singapore.html" crc="411820884" seo="true" mt="1434128819584" redirect="true"/>
+  <file name="seychelles.html" crc="308411415" seo="true" mt="1434128833537" redirect="true"/>
+  <file name="cook-islands.html" crc="4159510070" seo="true" mt="1434128705207" redirect="true"/>
+  <file name="jurisdiction.html" crc="3764637878" seo="true" mt="1454232598963" redirect="true"/>
+</manifest>
